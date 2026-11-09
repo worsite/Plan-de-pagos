@@ -1,0 +1,9 @@
+{
+  "name": "Plan de Pagos",
+  "short_name": "Pagos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F1FAF5",
+  "theme_color": "#DDF3E8",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
